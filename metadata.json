@@ -1,0 +1,8 @@
+{
+  "name": "Portfolio Analyzer",
+  "description": "A comprehensive investment portfolio dashboard offering real-time value tracking, asset allocation visualizations, scenario risk simulator, and Gemini-powered smart financial diversification advice.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
